@@ -15,7 +15,8 @@ Video Link: https://youtu.be/hHyE1I6Fw0c
 
 
 ## Team Members 
-Eunice Chandra: https://github.com/EuniceChandra
+Eunice Chandra: https://github.com/EuniceChandra,
+
 Karunya Selvaratnam: https://github.com/karunya30 
 
 ## Time Frame
