@@ -13,6 +13,11 @@ Due to plagiarism and UCL policy, the code will not be uploaded publicly on GitH
 
 Video Link: https://youtu.be/hHyE1I6Fw0c
 
+
+## Team Members 
+Eunice Chandra: https://github.com/EuniceChandra
+Karunya Selvaratnam: https://github.com/karunya30 
+
 ## Time Frame
 
 October 2019 - January 2020
